@@ -1,0 +1,31 @@
+@media (max-width: 576px) {
+	body {
+		height: 100%;
+		overflow: initial;
+	}
+
+	.article-header {
+		background: #32a8dd;
+	}
+
+	h1 {
+		animation-name: none;
+		font-size: 3rem;
+	}
+
+	.button {
+		background-color: #32a8dd;
+	}
+	.info {
+		flex-direction: column;
+		background-color: whitesmoke;
+	}
+
+	.colorbar {
+		margin-top: 10%;
+	}
+	.boxes {
+		color: black;
+		background-color: whitesmoke;
+	}
+}

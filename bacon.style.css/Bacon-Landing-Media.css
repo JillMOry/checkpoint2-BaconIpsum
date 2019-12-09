@@ -1,0 +1,35 @@
+@media (max-width: 576px) {
+	body {
+		height: 100%;
+		overflow: initial;
+	}
+
+	.banner-content {
+		background: #32a8dd;
+		overflow: hidden;
+		position: relative;
+	}
+
+	h1 {
+		font-size: 2rem;
+	}
+
+	.button {
+		background-color: #32a8dd;
+	}
+
+	.info {
+		flex-direction: column;
+		background-color: #f7f5f6;
+		padding-top: 7%;
+		overflow: hidden;
+	}
+
+	.boxes {
+		background-color: #f7f5f6;
+		color: black;
+	}
+	.colorbar {
+		font-size: 1.2rem;
+	}
+}
